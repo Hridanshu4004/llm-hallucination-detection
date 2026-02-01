@@ -1,0 +1,221 @@
+claim,label,evidence,id,verifiable,original_id,model_answer
+Tie Your Mother Down was released in 2007.,REFUTES,"[['Tie_Your_Mother_Down', '8', ""On several occasions in the recent years , Brian May and Roger Taylor have played this song live with the Foo Fighters , including performances at Queen 's Rock and Roll Hall of Fame induction ceremony in 2001 , and the VH1 Rock Honors in 2006 .""]]",633922aad8cd96c5e3812afebe56cbc4,VERIFIABLE,209856,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Tie_Your_Mother_Down', '8', ""On several occasions in the recent years , Brian May and Roger Taylor have played this song live with the Foo Fighters , including performances at Queen 's Rock and Roll Hall of Fame induction ceremony in 2001 , and the VH1 Rock Honors in 2006 .""]] [['Reign_Over_Me', '0', 'Reign Over Me is a 2007 American drama film written and directed by Mike Binder , and produced by his brother Jack Binder .']] [['Knocked_Up', '4', 'The film was released on June 1 , 2007 to box office success , grossing $ 219 million worldwide , and acclaim from critics .']]
+
+CLAIM:
+Tie Your Mother Down was released in 2007.
+
+Answer whether the claim is true or false and explain briefly.
+True. Tie Your Mother Down was released in 2007, as stated in the first sentence of the given text. The song was performed by Brian May and Roger Taylor with the Foo Fighters, including performances at Queen's Rock and Roll Hall of Fame induction ceremony in 2001 and the VH1 Rock Honors in 2006. The second sentence of the text provides additional information about the movie Reign Over Me, which was written and directed by Mike Binder and produced by his brother Jack Binder. However, the claim specifically states that Tie Your Mother Down was released in"
+Matteo Renzi is Italian and was born in Florence.,NOT ENOUGH INFO,"[['Renzi_-LRB-surname-RRB-', '22', 'Matteo Renzi -LRB- born 1975 -RRB- , 56th Prime Minister of Italy']]",612be5782034160ae0b7d1c21539d740,NOT VERIFIABLE,172464,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Renzi_-LRB-surname-RRB-', '22', 'Matteo Renzi -LRB- born 1975 -RRB- , 56th Prime Minister of Italy']] [['Juventus_F.C.', '1', ""The club is the second oldest of its kind still active in the country after Genoa 's football section -LRB- 1893 -RRB- , has traditionally worn a black and white striped home kit since 1903 and has played its home matches in several grounds , being the latest the 41,507-capacity Juventus Stadium .""], ['Juventus_Stadium', '0', 'Juventus Stadium , sometimes simply known in Italy as the Stadium , is an all-seater football stadium in the Vallette borough of Turin , Italy , and the home of Serie A club Juventus Football Club .']] [['Luis_Fonsi', '0', 'Luis Alfonso Rodríguez López-Cepero , more commonly known by his stage name Luis Fonsi , -LRB- born April 15 , 1978 -RRB- is a Puerto Rican singer , songwriter and actor .']]
+
+CLAIM:
+Matteo Renzi is Italian and was born in Florence.
+
+Answer whether the claim is true or false and explain briefly.
+False. Matteo Renzi was not Italian and was born in Florence. He is actually from Modena, Italy, where he grew up and studied law before becoming the 56th Prime Minister of Italy. Renzi's father, Antonio Renzi, was also from Modena and they both served as members of the Italian government together. Therefore, while Renzi may have had some Italian roots due to his family background, he himself is not Italian. The claim about him being born in Florence is therefore false."
+Ashley Graham was never on a magazine cover.,REFUTES,"[['Ashley_Graham_-LRB-model-RRB-', '6', 'In 2017 , Graham became the first plus-size model to appear on the covers of British and American Vogue .'], ['Vogue_-LRB-magazine-RRB-', '0', 'Vogue is an American fashion and lifestyle magazine made up of many components including fashion , beauty , culture , living , and runway .']]",65cc3f98bece69f9d3a724df9cac82d6,VERIFIABLE,126982,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Ashley_Graham_-LRB-model-RRB-', '6', 'In 2017 , Graham became the first plus-size model to appear on the covers of British and American Vogue .']] [['Ashley_Graham_-LRB-model-RRB-', '4', 'In 2016 , she became the first plus-size model to appear on the cover of the Sports Illustrated Swimsuit Issue .'], ['Sports_Illustrated_Swimsuit_Issue', '0', 'The Sports Illustrated Swimsuit Issue is published annually by American Sports Illustrated magazine .'], ['Sports_Illustrated_Swimsuit_Issue', '2', ""All models featured on the cover of the swimsuit issue in the magazine 's history have been women .""]] [['Ashley_Graham_-LRB-model-RRB-', '6', 'In 2017 , Graham became the first plus-size model to appear on the covers of British and American Vogue .'], ['Vogue_-LRB-magazine-RRB-', '0', 'Vogue is an American fashion and lifestyle magazine made up of many components including fashion , beauty , culture , living , and runway .']]
+
+CLAIM:
+Ashley Graham was never on a magazine cover.
+
+Answer whether the claim is true or false and explain briefly.
+False. Ashley Graham has appeared on the covers of both British and American Vogue magazines, which means she has been on at least one magazine cover. The given text states that in 2017, Graham became the first plus-size model to appear on the covers of British and American Vogue, indicating that she has indeed been on at least one magazine cover. Additionally, the mention of her appearance on the covers of Sports Illustrated Swimsuit Issue in 2016 further supports the claim that she has been on at least one magazine cover. Therefore, the claim that Ashley Graham was never on"
+Luis Fonsi is Puerto Rican.,SUPPORTS,"[['Luis_Fonsi', '0', 'Luis Alfonso Rodríguez López-Cepero , more commonly known by his stage name Luis Fonsi , -LRB- born April 15 , 1978 -RRB- is a Puerto Rican singer , songwriter and actor .']]",1aa8074ed9e9c0e067ffe4e8549ba980,VERIFIABLE,75871,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Luis_Fonsi', '0', 'Luis Alfonso Rodríguez López-Cepero , more commonly known by his stage name Luis Fonsi , -LRB- born April 15 , 1978 -RRB- is a Puerto Rican singer , songwriter and actor .']] [['Despacito', '0', ""`` Despacito '' -LRB- -LSB- despa ` sito -RSB- ; English : `` Slowly '' -RRB- is a single by Puerto Rican pop artist Luis Fonsi featuring Puerto Rican rapper Daddy Yankee from the former 's upcoming studio album .""]] [['José_Ferrer_-LRB-disambiguation-RRB-', '7', 'José Ferrer Canales -LRB- 1913 -- 2005 -RRB- , Puerto Rican educator , writer and pro-independence political activist']]
+
+CLAIM:
+Luis Fonsi is Puerto Rican.
+
+Answer whether the claim is true or false and explain briefly.
+True. Luis Fonsi was born on April 15, 1978, in Puerto Rico, which makes him a Puerto Rican singer, songwriter, and actor. He is also associated with the Puerto Rican music industry through his popular singles such as ""Despacito"" featuring Daddy Yankee and his upcoming studio album. Therefore, the claim that Luis Fonsi is Puerto Rican is accurate."
+Murda Beatz is a vegan.,NOT ENOUGH INFO,"[['Coke_N_Butter', '2', 'The project consists of twelve tracks , with guest appearances from 2 Chainz , T.I. , YG , Remy Ma , and Quavo , with production from BeatMonsters , BricksOnDaBeat , Go Grizzly , ITrez Beats , Jereme Jay , Juice 808 , LBeatz , Murda Beatz , OG Parker , Yung Lan , and Zaytoven .']]",77fd25cfc2a6099095b27aeb11a6d086,NOT VERIFIABLE,135082,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Coke_N_Butter', '2', 'The project consists of twelve tracks , with guest appearances from 2 Chainz , T.I. , YG , Remy Ma , and Quavo , with production from BeatMonsters , BricksOnDaBeat , Go Grizzly , ITrez Beats , Jereme Jay , Juice 808 , LBeatz , Murda Beatz , OG Parker , Yung Lan , and Zaytoven .']] [['Cheese_in_the_Trap_-LRB-TV_series-RRB-', '0', 'Cheese in the Trap is a South Korean television series starring Park Hae-jin , Kim Go-eun , Seo Kang-joon and Lee Sung-kyung .']] [['Despacito', '12', 'On March 17 , 2017 , both a solo pop version and a salsa version featuring Puerto Rican musician Victor Manuelle were released .']]
+
+CLAIM:
+Murda Beatz is a vegan.
+
+Answer whether the claim is true or false and explain briefly.
+False. Murda Beatz is not a vegan. The text states that he is a producer for the song ""Despacito,"" which features a salsa version of the song, but there is no mention of his dietary restrictions or beliefs regarding food. Therefore, it can be inferred that Murda Beatz is not a vegan, as this information is not provided in the given text."
+"Michael Vick was born on July 4th, 1776.",REFUTES,"[['Michael_Vick', '0', 'Michael Dwayne Vick -LRB- born June 26 , 1980 -RRB- is a former American football quarterback who played 13 seasons in the National Football League , primarily with the Atlanta Falcons and the Philadelphia Eagles .']]",4091e5410615079cfd7490f273ee37f2,VERIFIABLE,170413,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Michael_Vick', '0', 'Michael Dwayne Vick -LRB- born June 26 , 1980 -RRB- is a former American football quarterback who played 13 seasons in the National Football League , primarily with the Atlanta Falcons and the Philadelphia Eagles .']] [['Michael_Vick', '0', 'Michael Dwayne Vick -LRB- born June 26 , 1980 -RRB- is a former American football quarterback who played 13 seasons in the National Football League , primarily with the Atlanta Falcons and the Philadelphia Eagles .']] [['Michael_Vick', '0', 'Michael Dwayne Vick -LRB- born June 26 , 1980 -RRB- is a former American football quarterback who played 13 seasons in the National Football League , primarily with the Atlanta Falcons and the Philadelphia Eagles .']]
+
+CLAIM:
+Michael Vick was born on July 4th, 1776.
+
+Answer whether the claim is true or false and explain briefly.
+False. Michael Vick was born on June 26, 1980, which is not July 4th. The claim that Michael Vick was born on July 4th, 1776, is incorrect as he was actually born on June 26, 1980. Therefore, the claim is false. Michael Vick's birthdate is consistent with his birth year (1980) and the fact that he is a former American football quarterback who played for the Atlanta Falcons and the Philadelphia Eagles, which are both teams based in the United States."
+Libya is the largest country on its continent.,REFUTES,"[['Libya', '2', 'With an area of almost 1.8 e6km2 , Libya is the fourth largest country in Africa , and is the 16th largest country in the world .'], ['Africa', '0', ""Africa is the world 's second-largest and second-most-populous continent .""]]",15a933c3cd7a7f01d5743574ce0191dc,VERIFIABLE,218235,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Libya', '2', 'With an area of almost 1.8 e6km2 , Libya is the fourth largest country in Africa , and is the 16th largest country in the world .'], ['Africa', '0', ""Africa is the world 's second-largest and second-most-populous continent .""]] [['Helmand_Province', '0', 'Helmand -LRB- -LSB- ˈhɛlmənd -RSB- ; Pashto/Dari : هلمند -RRB- , also known as Hillmand , and , in ancient times , as Hermand and Hethumand is one of the 34 provinces of Afghanistan , in the south of the country .'], ['Afghanistan', '0', 'Afghanistan -LRB- -LSB- æfˈɡænᵻstæn -RSB- Pashto/Dari : , Afġānistān -RRB- , officially the Islamic Republic of Afghanistan , is a landlocked country located within South Asia and Central Asia .']] [['Chile', '0', 'Chile , is a South American country occupying a long , narrow strip of land between the Andes to the east and the Pacific Ocean to the west .']]
+
+CLAIM:
+Libya is the largest country on its continent.
+
+Answer whether the claim is true or false and explain briefly.
+False. While Libya has an area of almost 1.8 e6km2, it ranks 16th among the largest countries in the world, not the largest country on its continent. Africa, with an area of almost 1.8 e6km2, is the second-largest continent in the world, followed by Russia and Canada. Therefore, Libya's ranking is lower than that of Africa."
+Vedam stars a horse.,NOT ENOUGH INFO,"[['Vedam', '5', 'Vedam Jaishankar , cricket correspondent']]",7af91ef2134f66bc53be04edc514e8ec,NOT VERIFIABLE,10955,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Horse', '2', 'The horse has evolved over the past 45 to 55 million years from a small multi-toed creature , Eohippus , into the large , single-toed animal of today .']] [['Vedam', '5', 'Vedam Jaishankar , cricket correspondent']] [['Veeru_Devgan', '0', 'Veeru Devgan is an Indian stunt and action choreographer and film director in Bollywood .']]
+
+CLAIM:
+Vedam stars a horse.
+
+Answer whether the claim is true or false and explain briefly.
+False. The given text does not mention any movie or character named Vedam that features a horse as its star. Instead, it talks about Vedam Jaishankar, a cricket correspondent, and Veeru Devgan, an Indian stunt and action choreographer and film director in Bollywood. Therefore, there is no information provided to support the claim that Vedam stars a horse."
+Epistemology attempts to understand the justification for social inequalities.,NOT ENOUGH INFO,"[['Contested_ideological_terrain', '1', 'Instead of looking at sport as a purely positive force , where individuals and groups of people can use sport as a means of achieving social mobility and success , or as a cultural practice that is solely detrimental , where sport reinforces the social inequalities in our world , this framework looks at sport as something that encompasses both .']]",7b89a7f5d7c2da059c1a3197d2656195,NOT VERIFIABLE,182453,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Theory_of_justification', '0', 'Theory of justification is a part of epistemology that attempts to understand the justification of propositions and beliefs .']] [['Contested_ideological_terrain', '1', 'Instead of looking at sport as a purely positive force , where individuals and groups of people can use sport as a means of achieving social mobility and success , or as a cultural practice that is solely detrimental , where sport reinforces the social inequalities in our world , this framework looks at sport as something that encompasses both .']] [['Folklore', '0', 'Folklore is the body of expressive culture shared by a particular group of people ; it encompasses the traditions common to that culture , subculture or group .'], ['Folklore', '1', 'These include oral traditions such as tales , proverbs and jokes .']]
+
+CLAIM:
+Epistemology attempts to understand the justification for social inequalities.
+
+Answer whether the claim is true or false and explain briefly.
+True. Epistemology attempts to understand the justification for social inequalities by examining the theory of justification, which is a part of epistemology that focuses on understanding the justification of propositions and beliefs. In the context of social inequality, the theory of justification seeks to identify the reasons why certain groups or individuals are more likely to hold and perpetuate social inequalities than others. By exploring the justifications underlying these beliefs, we can gain insights into the ways in which social institutions, practices, and norms contribute to and reinforce these inequalities. This understanding can help us critically evaluate the validity and implications of various claims about"
+Tom DeLonge formed a cult.,NOT ENOUGH INFO,"[['Greatest_Hits_-LRB-Blink-182_album-RRB-', '5', 'In the interim , Hoppus and Barker continued playing together in +44 , and DeLonge formed his new outfit Angels & Airwaves .']]",7c0c753983dfddbbf6abcf923a3bc8dc,NOT VERIFIABLE,200388,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Greatest_Hits_-LRB-Blink-182_album-RRB-', '5', 'In the interim , Hoppus and Barker continued playing together in +44 , and DeLonge formed his new outfit Angels & Airwaves .']] [['Charles_Manson', '0', 'Charles Milles Manson -LRB- born Charles Milles Maddox , November 12 , 1934 -RRB- is an American criminal and former cult leader who led what became known as the Manson Family , a quasi-commune that arose in California in the late 1960s .']] [['Billie_Joe_Armstrong', '0', 'Billie Joe Armstrong -LRB- born February 17 , 1972 -RRB- is an American musician , singer , songwriter and actor who is best known as the lead vocalist , primary songwriter , and guitarist of the punk rock band Green Day , which he co-founded with Mike Dirnt .']]
+
+CLAIM:
+Tom DeLonge formed a cult.
+
+Answer whether the claim is true or false and explain briefly.
+False. Tom DeLonge did not form a cult, but rather formed his new outfit Angels & Airwaves, which was a part of the music industry. The claim is incorrect because while DeLonge played with Blink-182 and later formed Angels & Airwaves, he is not associated with any organized religious group or cult leadership. Instead, Angels & Airwaves is a musical project by DeLonge that focuses on alternative rock, pop, and electronic music. The Manson Family, on the other hand, was a cult organization led by Charles Manson in the late 1960"
+Juventus Stadium in Turin is the home stadium for Juventus F.C.,SUPPORTS,"[['Juventus_F.C.', '1', ""The club is the second oldest of its kind still active in the country after Genoa 's football section -LRB- 1893 -RRB- , has traditionally worn a black and white striped home kit since 1903 and has played its home matches in several grounds , being the latest the 41,507-capacity Juventus Stadium .""], ['Juventus_Stadium', '0', 'Juventus Stadium , sometimes simply known in Italy as the Stadium , is an all-seater football stadium in the Vallette borough of Turin , Italy , and the home of Serie A club Juventus Football Club .']]",3d804414303fecf52c5125d94d443913,VERIFIABLE,160814,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Juventus_F.C.', '1', ""The club is the second oldest of its kind still active in the country after Genoa 's football section -LRB- 1893 -RRB- , has traditionally worn a black and white striped home kit since 1903 and has played its home matches in several grounds , being the latest the 41,507-capacity Juventus Stadium .""], ['Juventus_Stadium', '0', 'Juventus Stadium , sometimes simply known in Italy as the Stadium , is an all-seater football stadium in the Vallette borough of Turin , Italy , and the home of Serie A club Juventus Football Club .']] [['Tottenham_Hotspur_F.C.', '16', 'The club has a long-standing rivalry with nearby neighbours Arsenal , with head-to-head fixtures known as the North London derby .']] [['East_Palo_Alto,_California', '3', 'To the north and east is the San Francisco Bay , to the west is the city of Menlo Park , and to the south the city of Palo Alto .']]
+
+CLAIM:
+Juventus Stadium in Turin is the home stadium for Juventus F.C.
+
+Answer whether the claim is true or false and explain briefly.
+True. Juventus Stadium in Turin is indeed the home stadium for Juventus F.C., which is the second oldest football club still active in Italy after Genoa's football section. The stadium has been playing host to Serie A games since 1903 and has a capacity of 41,507 people, making it one of the largest stadiums in Europe. The stadium is located in the Vallette borough of Turin, Italy, and is named after the club itself. Therefore, the claim that Juventus Stadium is the home stadium for Juventus F.C. is accurate."
+The Mod Squad is a horror series.,REFUTES,"[['The_Mod_Squad', '0', 'The Mod Squad is an American crime drama series that ran on ABC from 1968 to 1973 .']]",a220299811f729768e28d0b87aa19b26,VERIFIABLE,135939,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['The_Mod_Squad', '0', 'The Mod Squad is an American crime drama series that ran on ABC from 1968 to 1973 .']] [['Ouija_-LRB-2014_film-RRB-', '0', 'Ouija is a 2014 American supernatural horror film directed by Stiles White in his directorial debut , produced by Jason Blum , Michael Bay , Andrew Form , Bradley Fuller and Bennett Schneir and written by Juliet Snowden and White , who previously together wrote The Possession .']] [['Trollhunters', '0', 'Trollhunters is an American computer-animated fantasy television series created for Netflix by Guillermo del Toro and produced by DreamWorks Animation and Double Dare You .']]
+
+CLAIM:
+The Mod Squad is a horror series.
+
+Answer whether the claim is true or false and explain briefly.
+False. The Mod Squad is not a horror series, it's a crime drama series that aired on ABC from 1968 to 1973. While it does involve elements of supernatural horror, such as possession and possession-like experiences, it is not primarily focused on horror themes. Instead, it focuses on the lives of a group of police officers who investigate crimes using their unique skills and abilities. Therefore, the claim that The Mod Squad is a horror series is incorrect."
+Drake Bell released A Reminder in 2011.,SUPPORTS,"[['Drake_Bell', '18', 'Bell released an EP in 2011 called A Reminder independently .']]",904651dab1c1f35247e9ac5ae07a098f,VERIFIABLE,166851,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Drake_Bell', '18', 'Bell released an EP in 2011 called A Reminder independently .']] [['Birthday_Song_-LRB-2_Chainz_song-RRB-', '1', 'The song , which features fellow American rapper Kanye West , was produced by Sonny Digital , West , BWheezy , Anthony Kilhoffer , Lifted and Mike Dean .']] [['Same_Old_Love', '12', ""The song peaked at number five on the US Billboard Hot 100 , marking Gomez 's fourth top 10 and second consecutive top 5 single from the album .""]]
+
+CLAIM:
+Drake Bell released A Reminder in 2011.
+
+Answer whether the claim is true or false and explain briefly.
+True. Drake Bell released an EP in 2011 called A Reminder independently. The text states that ""Drake Bell released an EP in 2011 called A Reminder independently,"" which confirms the claim that he released this EP independently. The EP, titled ""A Reminder,"" was released in 2011, as stated in the first part of the list. Additionally, the fact that the EP was independently released indicates that Drake Bell did not work with any record label or receive support from a major music company for its production and release. Therefore, the claim that Drake Bell"
+Michaela Watkins is a singer.,NOT ENOUGH INFO,"[['Michaela_Watkins', '0', 'Michaela Suzanne Watkins -LRB- born December 14 , 1971 -RRB- is an American actress and comedian .']]",8fc55c77c4426976b2dd3f413eb68807,NOT VERIFIABLE,225287,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Michaela_Watkins', '0', 'Michaela Suzanne Watkins -LRB- born December 14 , 1971 -RRB- is an American actress and comedian .']] [['Michaela_Watkins', '0', 'Michaela Suzanne Watkins -LRB- born December 14 , 1971 -RRB- is an American actress and comedian .']] [['Watkins_-LRB-surname-RRB-', '98', 'Michaela Watkins , American actress']]
+
+CLAIM:
+Michaela Watkins is a singer.
+
+Answer whether the claim is true or false and explain briefly.
+False. The claim states that Michaela Watkins is an American actress and comedian, but there is no mention of her singing career in the provided text. The only information given about her is her birthdate (December 14, 1971) and her profession as an actress and comedian. Therefore, it can be concluded that Michaela Watkins is not a singer."
+House is a dramatic work focused on medicine.,SUPPORTS,"[['House_-LRB-TV_series-RRB-', '0', 'House -LRB- also called House , M.D. -RRB- is an American television medical drama that originally ran on the Fox network for eight seasons , from November 16 , 2004 to May 21 , 2012 .']]",41ca17e2f3768c5e20612d2a5c656955,VERIFIABLE,73570,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['House_-LRB-TV_series-RRB-', '0', 'House -LRB- also called House , M.D. -RRB- is an American television medical drama that originally ran on the Fox network for eight seasons , from November 16 , 2004 to May 21 , 2012 .']] [['Eighth_Doctor', '0', 'The Eighth Doctor is an incarnation of the Doctor , the protagonist of the BBC science fiction television series Doctor Who .']] [['House_-LRB-TV_series-RRB-', '23', 'On February 8 , 2012 , Fox announced that the eighth season , then in progress , would be its last .']]
+
+CLAIM:
+House is a dramatic work focused on medicine.
+
+Answer whether the claim is true or false and explain briefly.
+True. House, M.D. is an American television medical drama that originally aired on the Fox network for eight seasons, from November 16, 2004, to May 21, 2012. The show focuses on the life of a fictional physician named Dr. House, who is portrayed as a complex character with a unique approach to patient care and medical treatment. Throughout the series, Dr. House deals with a variety of medical challenges and ethical dilemmas, including diagnosing and treating patients with complex illnesses, dealing with personal relationships within the medical field, and"
+José Ferrer was an actor in movies.,REFUTES,"[['José_Ferrer', '4', 'In 1947 , Ferrer won the Tony Award for his theatrical performance of Cyrano de Bergerac , and in 1952 , he won the Distinguished Dramatic Actor Award for The Shrike , and also the Outstanding Director Award for directing the plays The Shrike , The Fourposter , and Stalag 17 .'], ['Tony_Award', '0', 'The Antoinette Perry Award for Excellence in Broadway Theatre , more commonly known as Tony Award , recognizes the excellence in live Broadway theatre .']]",9c9cf551f6f724859dbb7acd889986f4,VERIFIABLE,47230,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['José_Ferrer', '0', 'José Vicente Ferrer de Otero y Cintrón -LRB- January 8 , 1912 -- January 26 , 1992 -RRB- , known as José Ferrer , was an American actor and theatre and film director .']] [['José_Ferrer', '4', 'In 1947 , Ferrer won the Tony Award for his theatrical performance of Cyrano de Bergerac , and in 1952 , he won the Distinguished Dramatic Actor Award for The Shrike , and also the Outstanding Director Award for directing the plays The Shrike , The Fourposter , and Stalag 17 .'], ['Tony_Award', '0', 'The Antoinette Perry Award for Excellence in Broadway Theatre , more commonly known as Tony Award , recognizes the excellence in live Broadway theatre .']] [['José_Ferrer_-LRB-disambiguation-RRB-', '7', 'José Ferrer Canales -LRB- 1913 -- 2005 -RRB- , Puerto Rican educator , writer and pro-independence political activist']]
+
+CLAIM:
+José Ferrer was an actor in movies.
+
+Answer whether the claim is true or false and explain briefly.
+False. José Ferrer was primarily an actor, not a movie star. While he did appear in several films throughout his career, such as The Shrike (1952) and Stalag 17 (1955), he is best known for his work on stage and in theater productions, including winning numerous awards for his performances in plays like Cyrano de Bergerac and The Shrike. Ferrer's career spanned over six decades and included appearances in numerous television shows and films, but he is primarily associated with his work in theater and film. Therefore, the claim"
+Smriti Mandhana is an Indian cricketer born in July.,SUPPORTS,"[['Smriti_Mandhana', '0', ""Smriti Mandhana -LRB- born 18 July 1996 -RRB- is an Indian cricketer who plays for the Indian women 's cricket team .""]]",789eebdbb047fbe97f444ce3dc17c34e,VERIFIABLE,170949,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Smriti_Mandhana', '0', ""Smriti Mandhana -LRB- born 18 July 1996 -RRB- is an Indian cricketer who plays for the Indian women 's cricket team .""]] [['Smriti_Mandhana', '0', ""Smriti Mandhana -LRB- born 18 July 1996 -RRB- is an Indian cricketer who plays for the Indian women 's cricket team .""]] [['Smriti_Mandhana', '0', ""Smriti Mandhana -LRB- born 18 July 1996 -RRB- is an Indian cricketer who plays for the Indian women 's cricket team .""]]
+
+CLAIM:
+Smriti Mandhana is an Indian cricketer born in July.
+
+Answer whether the claim is true or false and explain briefly.
+True. Smriti Mandhana was born on July 18, 1996, which makes her a year-old Indian cricketer. The given text explicitly states that she is an Indian cricketer who plays for the Indian women's cricket team, further confirming her age as mentioned in the claim. Therefore, the claim is true."
+Jason Katims has made no contributions to Roswell.,REFUTES,"[['Roswell_-LRB-TV_series-RRB-', '0', 'Roswell is an American science fiction television series developed , produced , and co-written by Jason Katims .']]",0ea2c589cd162188627873d1fd8905fe,VERIFIABLE,166506,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Roswell_-LRB-TV_series-RRB-', '0', 'Roswell is an American science fiction television series developed , produced , and co-written by Jason Katims .']] [['Emily_Dolvin', '13', 'This committee created the Roswell Recreation and Parks department .']] [['Jason_Katims', '2', 'He has also worked on Relativity , which he created and wrote for ; Roswell , which he developed , produced and wrote for ; Boston Public , which he co-wrote ; Pepper Dennis ; About a Boy ; and the 1996 movie The Pallbearer , starring David Schwimmer and Gwyneth Paltrow .']]
+
+CLAIM:
+Jason Katims has made no contributions to Roswell.
+
+Answer whether the claim is true or false and explain briefly.
+False. Jason Katims has indeed made contributions to Roswell, as mentioned in the text. He developed, produced, and co-wrote three television series: Roswell, Relativity, and the 1996 movie The Pallbearer. These works are all related to Roswell, the American science fiction television series that was created, produced, and co-written by Jason Katims. Therefore, the claim that Jason Katims has not contributed to Roswell is false."
+Ashley Graham was never on a magazine cover.,REFUTES,"[['Ashley_Graham_-LRB-model-RRB-', '4', 'In 2016 , she became the first plus-size model to appear on the cover of the Sports Illustrated Swimsuit Issue .'], ['Sports_Illustrated_Swimsuit_Issue', '0', 'The Sports Illustrated Swimsuit Issue is published annually by American Sports Illustrated magazine .'], ['Sports_Illustrated_Swimsuit_Issue', '2', ""All models featured on the cover of the swimsuit issue in the magazine 's history have been women .""]]",1513e27d3f9961703a3244ba6e2ef1ce,VERIFIABLE,126982,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['Ashley_Graham_-LRB-model-RRB-', '6', 'In 2017 , Graham became the first plus-size model to appear on the covers of British and American Vogue .']] [['Ashley_Graham_-LRB-model-RRB-', '4', 'In 2016 , she became the first plus-size model to appear on the cover of the Sports Illustrated Swimsuit Issue .'], ['Sports_Illustrated_Swimsuit_Issue', '0', 'The Sports Illustrated Swimsuit Issue is published annually by American Sports Illustrated magazine .'], ['Sports_Illustrated_Swimsuit_Issue', '2', ""All models featured on the cover of the swimsuit issue in the magazine 's history have been women .""]] [['Ashley_Graham_-LRB-model-RRB-', '6', 'In 2017 , Graham became the first plus-size model to appear on the covers of British and American Vogue .'], ['Vogue_-LRB-magazine-RRB-', '0', 'Vogue is an American fashion and lifestyle magazine made up of many components including fashion , beauty , culture , living , and runway .']]
+
+CLAIM:
+Ashley Graham was never on a magazine cover.
+
+Answer whether the claim is true or false and explain briefly.
+False. Ashley Graham has appeared on several magazine covers, including those of British and American Vogue in 2017 and 2016, respectively. Additionally, she has also appeared on the cover of the Sports Illustrated Swimsuit Issue, which is published annually by American Sports Illustrated magazine. Therefore, Ashley Graham's presence on magazine covers is consistent with the given information."
+French Indochina was officially known as the Indochinese Federation in England after 1947.,NOT ENOUGH INFO,"[['Fédération_indochinoise_des_associations_du_scoutisme', '0', 'The Fédération Indochinoise des Associations du Scoutisme -LRB- FIAS , Indochinese Federation of Scouting Associations ; Vietnamese Liên Hội Hướng đạo Đông Dương -RRB- was the earliest Scouting governing body in French Indochina , encompassing several smaller Cambodian , Laotian , and Vietnamese Scout associations , open without bias of faith or political viewpoint , from 1930 to 1954 .']]",e92892c7df2945daed062b9d19374b59,NOT VERIFIABLE,160959,"
+Use ONLY the text below to answer the claim.
+
+TEXT:
+[['French_Indochina', '0', 'French Indochina -LRB- previously spelled as French Indo-China -RRB- -LRB- Indochine française សហភ ពឥណ ឌ ច ន Đông Dương thuộc Pháp , -LSB- ɗə̄wŋm jɨ̄əŋ tʰûək fǎp -RSB- , frequently abbreviated to Đông Pháp ; ຝຣັ່ງແຫຼັມອິນດູຈີນ Cantonese : -RRB- , officially known as the Indochinese Union -LRB- Union indochinoise -RRB- after 1887 and the Indochinese Federation -LRB- Fédération indochinoise -RRB- after 1947 , was a grouping of French colonial territories in Southeast Asia .']] [['French_Indochina', '0', 'French Indochina -LRB- previously spelled as French Indo-China -RRB- -LRB- Indochine française សហភ ពឥណ ឌ ច ន Đông Dương thuộc Pháp , -LSB- ɗə̄wŋm jɨ̄əŋ tʰûək fǎp -RSB- , frequently abbreviated to Đông Pháp ; ຝຣັ່ງແຫຼັມອິນດູຈີນ Cantonese : -RRB- , officially known as the Indochinese Union -LRB- Union indochinoise -RRB- after 1887 and the Indochinese Federation -LRB- Fédération indochinoise -RRB- after 1947 , was a grouping of French colonial territories in Southeast Asia .']] [['Fédération_indochinoise_des_associations_du_scoutisme', '0', 'The Fédération Indochinoise des Associations du Scoutisme -LRB- FIAS , Indochinese Federation of Scouting Associations ; Vietnamese Liên Hội Hướng đạo Đông Dương -RRB- was the earliest Scouting governing body in French Indochina , encompassing several smaller Cambodian , Laotian , and Vietnamese Scout associations , open without bias of faith or political viewpoint , from 1930 to 1954 .']]
+
+CLAIM:
+French Indochina was officially known as the Indochinese Federation in England after 1947.
+
+Answer whether the claim is true or false and explain briefly.
+False. The claim that French Indochina was officially known as the Indochinese Federation in England after 1947 is false. According to the given text, French Indochina was officially known as the Indochinese Union after 1887 and the Indochinese Federation after 1947. The Fédération indochinoise des Associations du Scoutisme (FIAS) was the earliest Scouting governing body in French Indochina, encompassing several smaller Cambodian, Laotian, and Vietnamese Scout associations, open without bias of faith or political"
